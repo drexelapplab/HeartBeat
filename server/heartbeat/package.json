@@ -1,0 +1,10 @@
+{
+	"name" : "HeartbeatServer",
+	"description" : "A simple server that sends a heartbeat every second to all connected devices.",
+	"private" : true,
+	"version" : "1.0.0",
+	"dependencies" :
+	{
+		"socket.io" : "*"
+	}
+}
